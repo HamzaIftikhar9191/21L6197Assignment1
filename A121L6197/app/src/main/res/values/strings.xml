@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">A121L6197</string>
+    <string name="title_chatify">Chatify</string>
+    <string name="title_firstname">First Name</string>
+    <string name="title_lastname">Last Name</string>
+    <string name="title_email">Email id</string>
+    <string name="title_password">Password</string>
+    <string name="title_repassword">Retype Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="signup">SIGNUP</string>
+    <string name="already">Already have an account? </string>
+    <string name="login"> Login now</string>
+    <string name="exit">Exit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
